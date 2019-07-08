@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f5e5ece93b5ff7a4f9959336145361cf, type: 3}
+  m_Name: ItemConfig
+  m_EditorClassIdentifier: 
+  ConfigInfoList:
+  - id: 1
+    name: "\u501A\u5929\u5251"
+    type: 0
+    attack: 100
+  - id: 2
+    name: "\u5C60\u9F99\u5200"
+    type: 0
+    attack: 200
+  - id: 3
+    name: "\u971C\u4E4B\u54C0\u4F24"
+    type: 1
+    attack: 300
+  - id: 4
+    name: "\u706B\u4E4B\u9AD8\u5174"
+    type: 1
+    attack: 400
+  - id: 5
+    name: "\u9752\u9F99\u5043\u6708\u5200"
+    type: 2
+    attack: 500
+  - id: 6
+    name: "\u4E08\u516B\u86C7\u77DB"
+    type: 2
+    attack: 600
+  - id: 7
+    name: "\u4E09\u53C9\u621F"
+    type: 2
+    attack: 700
+  - id: 8
+    name: "\u6DF7\u5929\u7EEB"
+    type: 3
+    attack: 800
+  - id: 9
+    name: "\u4E7E\u5764\u5708"
+    type: 3
+    attack: 900
+  - id: 10
+    name: "\u98CE\u706B\u8F6E"
+    type: 3
+    attack: 1000
